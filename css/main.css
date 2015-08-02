@@ -1,0 +1,265 @@
+@charset "UTF-8";
+/* CSS Document */
+
+font{
+	font-family: 'Lucida Grande','Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+	color:#555;
+	margin-top:0px;
+}
+
+#core {
+	margin : 0px auto;
+	width : 1000px;
+	margin-bottom:40px;
+	padding-left:50px;
+	padding-right:50px;
+	min-width:1000px;
+}
+
+#subtitle{
+	padding-top:20px;
+	margin-top:10px;
+	margin-left:40px;
+}
+#subtitlec{
+	padding-top:20px;
+	margin-top:10px;
+	margin-left:40px;
+	margin-bottom:10px;
+	}
+.sub{
+	font-size: 50px;
+	font-family: 'Enriqueta','Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+	margin:0px auto;
+}
+
+#a-box {
+	margin-top: 60px;
+	height: 530px;
+	background-color: #FFFFFF;
+	box-shadow:2px 4px 10px 2px rgba(0, 0, 0, 0.2);
+}
+
+#a1-box{
+	margin-top:30px;
+	margin-left:50px;
+	padding-top:20px;
+	padding-left:25px;
+	padding-right:20px;
+	height: 345px;
+	width:450px;
+	background-color: #ddd;
+	line-height:25px;
+	font-size:18px;
+	float:left;
+	}
+#a2-box{
+	margin-top:25px;
+	float:right;	
+	margin-right:50px;
+	
+}
+#b-box {
+	margin-top: 80px;
+	height: 620px;
+	background-color: #FFFFFF;
+	box-shadow:2px 4px 10px -1px rgba(0, 0, 0, 0.2);
+}
+
+#b1-box{
+	margin-top:20px;
+	margin-left:100px;
+	padding-top:10px;
+	padding-left:15px;
+	padding-right:15px;
+	height: 90px;
+	width:610px;
+	background-color: #ddd;
+	line-height:25px;
+	font-size:18px;
+	
+}
+#b2-box{
+	margin-top:25px;
+	margin-left:260px;
+	padding-top:10px;
+	padding-left:15px;
+	padding-right:15px;
+	height: 90px;
+	width:600px;
+	background-color: #ddd;
+	line-height:25px;
+	font-size:18px;
+}
+#b3-box{
+	margin-top:25px;
+	margin-left:100px;
+	padding-top:10px;
+	padding-left:15px;
+	padding-right:15px;
+	height: 90px;
+	width:610px;
+	background-color: #ddd;
+	line-height:25px;
+	font-size:18px;
+}
+#b4-box{
+	margin-top:25px;
+	margin-left:260px;
+	padding-top:10px;
+	padding-left:15px;
+	padding-right:15px;
+	height: 90px;
+	width:600px;
+	background-color: #ddd;
+	line-height:25px;
+	font-size:18px;
+}
+
+#y1{
+	margin-top:10px;
+	margin-right:115px;
+	float:right;
+	height:100px;
+	width:150px;
+}
+#y2{
+	margin-top:18px;
+	margin-left:95px;
+	float:left;
+	height:100px;
+	width:150px;
+}
+#y3{
+	margin-top:20px;
+	margin-right:115px;
+	float:right;
+	height:60px;
+	width:150px;
+}
+#y4{
+	margin-top:15px;
+	margin-left:95px;
+	float:left;
+	height:100px;
+	width:140px;
+}
+#yy{
+	margin:10px 25px;
+}
+.yyy{
+	font-size: 60px;
+	font-family: 'Enriqueta','Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+	margin:0px auto;
+}
+
+#c-box {
+	margin-top: 80px;
+	height: 560px;
+	background-color: #FFFFFF;
+	box-shadow:0px 1px 10px 3px rgba(0, 0, 0, 0.2);
+}
+#Clinebox{
+	height:140px;
+	width:1000px;
+	padding-bottom:10px;
+	}
+
+#c1-box{
+	margin-top:10px;
+	margin-left:35px;
+	margin-bottom:15px;
+	padding-top:15px;
+	padding-left:15px;
+	height: 100px;
+	width:430px;
+	background-color: #ddd;
+	line-height:25px;
+	font-size:18px;
+	float:left;
+}#c2-box{
+	margin-top:10px;
+	margin-right:35px;
+	margin-bottom:15px;
+	padding-top:15px;
+	padding-left:15px;
+	height: 100px;
+	width:430px;
+	background-color: #ddd;
+	line-height:25px;
+	font-size:18px;
+	float:right;
+}
+#c3-box{
+	margin-top:10px;
+	height:60px;
+	width:420px;
+	background-color: #ddd;
+	line-height:25px;
+	font-size:18px;
+}
+
+#triangle1{
+	margin-top:50px;
+	margin-left:70px;
+	height:0px;
+	width:0px;
+	border-top:20px solid transparent;
+	border-left:0px solid transparent;
+	border-right:#ddd 30px solid;
+	border-bottom:20px solid transparent;
+	float:left;
+}
+#triangle2{
+	margin-top:50px;
+	margin-right:80px;
+	height:0px;
+	width:0px;
+	border-top:20px solid transparent;
+	border-left:#ddd 30px solid;
+	border-right:0px solid transparent;
+	border-bottom:20px solid transparent;
+	float:right;
+}
+
+.just{
+		text-justify:auto;
+}
+
+#pic1{
+	float:left;
+	margin-top:45px;
+	margin-left:20px;
+	z-index:100;
+}
+#pic2{
+	float:right;
+	margin-top:45px;
+	margin-right:20px;
+	z-index:80;
+}
+#pic3{
+	float:left;
+	margin-top:45px;
+	margin-left:20px;
+	z-index:60;
+}
+#pic4{
+	float:right;
+	margin-top:45px;
+	margin-right:20px;
+	z-index:40;
+}
+
+.exhibition{
+	font-size:16px;
+	font-family: ubuntu mono,'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+	line-height:1.9;
+	color:#444;
+}
+.question{
+	font-size:22px;
+}
+.answer{
+	font-size:16px;
+}

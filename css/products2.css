@@ -1,0 +1,248 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@media screen and (max-width:767px){
+
+#core{
+	margin : 0px auto;
+	width:640px;
+	padding-left:0px;
+	padding-right:0px;	
+}
+
+#products_box{
+	margin:0px auto;
+	margin-top:20px;
+	height:auto;
+	width:640px;
+	background-color: #fff;
+	box-shadow:2px 4px 10px 2px rgba(0, 0, 0, 0.2);
+	padding-bottom:30px;
+}
+#products_box2{
+	margin:0px auto;
+	margin-top:20px;
+	height:auto;
+	width:640px;
+	background-color: #fff;
+	box-shadow:2px 4px 10px 2px rgba(0, 0, 0, 0.2);
+	padding-bottom:30px;
+}
+#upper-products{
+	margin:0px 0px;
+	height:100px;
+}
+
+#middle-products{
+	margin:0px auto;
+	height:700px;
+	margin-top:20px;
+}
+
+#subtitle{
+	margin-top:25px;
+	margin-left:15px;
+	float:left;
+}
+
+.worktitle{
+	font-size: 55px;
+	font-family: 'Enriqueta','Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+	margin:0px auto;
+	letter-spacing: 3px;
+}
+.mystudy{
+	font-size: 36px;
+	font-family: 'Enriqueta','Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+	margin:0px auto;
+	letter-spacing: 3px;
+	margin-left:10px;
+	margin-top:10px;
+}
+
+font{
+	font-family: 'Lucida Grande','Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+	color:#555;
+	margin-top:0px;
+}
+
+#client{
+	float:left;
+	margin-left:30px;
+	margin-top:58px;
+	height:auto;
+	width:auto;
+	font-size: 24px;
+	font-family: 'Enriqueta','Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+	letter-spacing: 2px;
+	color:#777;
+}
+#mystudy1{
+	font-size: 22px;
+	font-family: 'Enriqueta','Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+	margin:0px auto;
+	letter-spacing: 3px;
+	margin-top:10px;
+	margin-left:10px;
+}
+#study{
+	float:left;
+	margin-left:20px;
+	margin-top:25px;
+	height:auto;
+	width:auto;
+	font-size: 24px;
+	font-family: 'Enriqueta','Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+	letter-spacing: 2px;
+	color:#777;
+	margin-bottom:20px;
+}
+
+#picture{
+	height:350px;
+	width:550px;
+	background-color:#fff;
+	margin-left:40px;
+	padding: 0px;
+}
+.bxslider1{
+	width:550px;
+	height:350px;
+}
+#detail{
+	background-color:#fff;
+	margin:0px auto;
+	height:auto;
+	width:auto;
+	margin-top:25px;
+	padding-bottom:40px;
+}
+
+#year{
+	width:200px;
+	height:20px;
+	font-size:20px;
+	color:#888;
+	font-family: ubuntu mono,'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+	letter-spacing:1px;
+	font-weight:1;
+}
+#title{
+	width:270px;
+	height:20px;
+	font-size:20px;
+	color:#666;
+	font-family: ubuntu mono,'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+	letter-spacing:1.5px;
+	font-weight:1;
+	display:none;
+}
+.short{
+font-size:14px;
+	color:#777;
+	font-family: ubuntu mono,'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+	letter-spacing:1px;
+	font-weight:1;
+}
+#app-types{
+		width:640px;
+	margin-top:40px;
+	color:#777;
+	font-family: ubuntu mono,'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+	height:15px;
+	font-size:26px;
+	letter-spacing:1px;
+	position:relative;
+	text-align:center;
+
+}
+#start{
+	margin-top:55px;
+	margin-left:60px;
+	width:280px;
+	height:15px;
+	font-size:20px;
+	color:#777;
+	font-family: ubuntu mono,'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+	letter-spacing:0px;
+
+}
+#roles{
+	width:auto;
+	margin-top:20px;
+	margin-left:60px;
+	height:15px;
+	font-size:26px;
+	color:#666;
+	font-family: ubuntu mono,'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+	letter-spacing:0px;
+
+}
+
+.small{
+	font-size:20px;
+	letter-spacing:1px;
+	font-family: ubuntu mono,'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+	color:#aaa;
+}
+.contest{
+font-size:20px;
+	letter-spacing:0px;
+	font-family: ubuntu mono,'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+	color:#aaa;
+	top:-6px;
+	position:relative;
+}
+.exhibition{
+	font-size:18px;
+	letter-spacing:0px;
+	font-family: ubuntu mono,'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+	color:#777;
+}
+#lower-products{
+	margin:0px auto;
+	margin-top:30px;
+	height:auto;
+	width:640px;
+	font-size:18px;
+	font-family: ubuntu mono,'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+	color:#555;
+}
+.year{
+	color:#bbb;
+	font-size:24px;
+	font-family: ubuntu mono,'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+}
+.point{
+	position:relative;
+	top:-2px;
+	color:#777;
+}
+#explanation{
+	margin:0px auto;
+	margin-top:0px;
+}
+#movie{
+	
+}
+#undermovie{
+	height:auto;
+	width:auto;
+	margin-left:50px;
+	font-family: ubuntu mono,'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+	font-size:10px
+	}
+	.youtube {
+  position: relative;
+  width: 100%;
+  margin-top:40px;
+	margin-left:35px;
+}
+.youtube iflame{
+ position: absolute;
+  top: 0;
+  right: 0;
+  width: 100% !important;
+  height: 100% !important;
+  }
+}
