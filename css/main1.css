@@ -205,7 +205,7 @@ font{
 	padding-bottom:30px;
 }
 #Clinebox{
-	height:130px;
+	height:auto;
 	padding-bottom:5px;
 	}
 
@@ -221,7 +221,6 @@ font{
 	background-color: #ddd;
 	line-height:25px;
 	font-size:20px;
-	float:left;
 }#c2-box{
 	margin-top:15px;
 	margin-left:10px;
@@ -234,7 +233,6 @@ font{
 	background-color: #ddd;
 	line-height:25px;
 	font-size:18px;
-	float:left;
 }
 #c3-box{
 	margin-top:10px;
@@ -243,7 +241,6 @@ font{
 	background-color: #ddd;
 	line-height:25px;
 	font-size:16px;
-	padding-bottom:10px;
 }
 
 #triangle1{	height:0px;

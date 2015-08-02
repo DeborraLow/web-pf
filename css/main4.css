@@ -19,7 +19,7 @@ font{
 #subtitle{
 	width:800px;
 	height:auto;
-	margin-top:10px;
+	margin-top:20px;
 	margin-left:40px;
 }
 #subtitleb{
@@ -51,22 +51,25 @@ font{
 }
 #a1-box{
 	margin-top:30px;
-	margin-left:50px;
-	padding-top:20px;
-	padding-left:25px;
-	padding-right:20px;
-	height: 345px;
-	width:450px;
+	margin-left:30px;
+	padding-top:10px;
+	padding-left:15px;
+	padding-right:15px;
+	height: 370px;
+	width:510px;
 	background-color: #ddd;
 	line-height:25px;
-	font-size:18px;
+	font-size:20px;
 	float:left;
 	}
 #a2-box{
-	margin-top:25px;
+	margin-top:30px;
 	float:right;	
-	margin-right:50px;
-	
+	margin-right:30px;
+}
+.expic{
+	height:380px;
+	width:380px;
 }
 #b-box {
 	margin-top: 80px;
@@ -165,7 +168,7 @@ font{
 
 #c-box {
 	margin-top: 80px;
-	height: 560px;
+	height: 610px;
 	background-color: #FFFFFF;
 	box-shadow:0px 1px 10px 3px rgba(0, 0, 0, 0.2);
 }
@@ -177,24 +180,24 @@ font{
 
 #c1-box{
 	margin-top:10px;
-	margin-left:35px;
+	margin-left:20px;
 	margin-bottom:15px;
 	padding-top:15px;
 	padding-left:15px;
-	height: 100px;
-	width:430px;
+	height: 130px;
+	width:450px;
 	background-color: #ddd;
 	line-height:25px;
 	font-size:18px;
 	float:left;
 }#c2-box{
 	margin-top:10px;
-	margin-right:35px;
+	margin-right:20px;
 	margin-bottom:15px;
 	padding-top:15px;
 	padding-left:15px;
-	height: 100px;
-	width:430px;
+	height: 130px;
+	width:450px;
 	background-color: #ddd;
 	line-height:25px;
 	font-size:18px;
@@ -236,42 +239,18 @@ font{
 		text-justify:auto;
 }
 
-#pic1{
-	float:left;
-	margin-top:45px;
-	margin-left:20px;
-	z-index:100;
-}
-#pic2{
-	float:right;
-	margin-top:45px;
-	margin-right:20px;
-	z-index:80;
-}
-#pic3{
-	float:left;
-	margin-top:45px;
-	margin-left:20px;
-	z-index:60;
-}
-#pic4{
-	float:right;
-	margin-top:45px;
-	margin-right:20px;
-	z-index:40;
-}
-
 .exhibition{
-	font-size:16px;
+	font-size:18px;
 	font-family: ubuntu mono,'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
-	line-height:1.9;
+	line-height:1.8;
 	color:#444;
 }
 .question{
-	font-size:22px;
+	font-size:24px;
 }
 .answer{
-	font-size:16px;
+	font-size:18px;
+	font-family: ubuntu mono,'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
 }
 .num5{
 	font-size:14px;
