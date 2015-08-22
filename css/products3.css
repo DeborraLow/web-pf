@@ -230,10 +230,10 @@ font-size:14px;
 	}
 	.youtube {
   position: relative;
-  width: 100%;
+  width: auto;
+  max-width:600px;
   	margin:0px auto;
 	margin-top:40px;
-	margin-left:100px;
 }
 .youtube iflame{
  position: absolute;
